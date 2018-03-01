@@ -2,6 +2,8 @@
 **Synchronisation Cloud avec Rclone sur conteneur Docker**
 ___
 
+01/03/18 - Rclone update 1.39
+
 08/09/17 - Rclone update 1.37
 
 17/11/16 - Rclone update 1.34
